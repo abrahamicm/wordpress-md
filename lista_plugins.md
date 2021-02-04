@@ -19,3 +19,6 @@
 <https://ve.wordpress.org/plugins/user-role-editor/>
 
 <https://ve.wordpress.org/plugins/really-simple-ssl/>
+
+<https://es.wordpress.org/plugins/sg-checkout-location-picker/>
+
